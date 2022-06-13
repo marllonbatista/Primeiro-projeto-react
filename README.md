@@ -2,7 +2,7 @@
 ## Resultado 👀
 
 <p align="center">
-  <img alt="" src=".github/preview-desktop.png" width="100%">
+  <img alt="" src=".github/preview-desktop.png" width="70%">
 </p>
 
 ## Tecnologias🚀
